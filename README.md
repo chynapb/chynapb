@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @chynapb
-- 🌱 I’m currently learning JavaScript, React, React Native, Bootstrap, & NodeJS
+- 👋 Hi, I’m Chyna
+- 🌱 I’m currently enrolled in a Full Stack web development bootcamp.
+Right now, I'm learning JavaScript, React, React Native, Bootstrap, & NodeJS
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/chynablair | Email: chynapblair@gmail.com
 
 <!---
