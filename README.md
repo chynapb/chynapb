@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chyna
 - 🌱 Graduated from a Full Stack web development bootcamp in March 2023.
-Right now, I'm teaching myself JavaScript, React, React Native, Bootstrap, & NodeJS
+Right now, I'm teaching myself JavaScript, React/React Native, Bootstrap, & NodeJS
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/chynablair | Email: chynapblair@gmail.com
 
 <!---
