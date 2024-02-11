@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Chyna. Graduated from a Full Stack coding bootcamp in March, 2023.
+- 👋 Hi, I’m Chyna. Graduated from Nucamp's Full Stack coding bootcamp in March, 2023.
 - 🌱 Skilled in: JavaScript, HTML & CSS, React, Bootstrap, Node.js, Express.js, & Git.  
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/chynablair | Email: chynapblair@gmail.com
